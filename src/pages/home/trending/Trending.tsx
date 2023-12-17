@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from "react";
 
 import Carousel from "../../../components/carousel/Carousel";

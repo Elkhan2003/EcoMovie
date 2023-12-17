@@ -1,4 +1,4 @@
-import React from "react";
+import { FC } from "react";
 
 import "./style.scss";
 
@@ -7,7 +7,7 @@ import Trending from "./trending/Trending.js";
 import Popular from "./popular/Popular.js";
 import TopRated from "./topRated/TopRated.js";
 
-const Home = () => {
+const Home: FC = () => {
 	return (
 		<div className="homePage">
 			<HeroBanner />

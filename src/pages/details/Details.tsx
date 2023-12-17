@@ -1,20 +1,19 @@
+// @ts-nocheck
 import { FC } from "react";
 import { useParams } from "react-router-dom";
 import "./style.scss";
 
 import useFetch from "../../hooks/useFetch";
-import DetailsBanner from "./detailsBanner/DetailsBanner.js";
-import Cast from "./cast/Cast.js";
-import VideosSection from "./videosSection/VideosSection.js";
-import Similar from "./carousels/Similar.js";
-import Recommendation from "./carousels/Recommendation.js";
+import DetailsBanner from "./detailsBanner/DetailsBanner";
+import Cast from "./cast/Cast";
+import VideosSection from "./videosSection/VideosSection";
+import Similar from "./carousels/Similar";
+import Recommendation from "./carousels/Recommendation";
 
 const Details: FC = () => {
 	const { mediaType, id } = useParams();
-	// @ts-ignore
 	const { data, loading } = useFetch(`/${mediaType}/${id}/videos`);
 	const { data: credits, loading: creditsLoading } = useFetch(
-		// @ts-ignore
 		`/${mediaType}/${id}/credits`
 	);
 
