@@ -2,7 +2,7 @@
 
 Добро пожаловать в Movix - уникальный веб-сайт, предоставляющий увлекательную информацию о фильмах и телешоу. Здесь вы сможете отыскать всю необходимую информацию о ваших любимых фильмах, актерах, режиссерах, рейтингах и многом другом. Movix обладает стильным и интуитивно понятным интерфейсом, который сделает ваш поиск кинематографических шедевров максимально удобным и приятным.
 
-### [Перейти на сайт Movix](https://movix911.vercel.app){:target="_blank"}
+<a href="https://movix911.vercel.app" target="_blank">Перейти на сайт Movix</a>
 
 ## 🚀 Установка
 
@@ -31,7 +31,7 @@
 
 Welcome to Movix - a unique website providing fascinating information about movies and TV shows. Here you can discover all the necessary details about your favorite films, actors, directors, ratings, and much more. Movix boasts a stylish and intuitive interface that makes your search for cinematic masterpieces as convenient and enjoyable as possible.
 
-### [Visit Movix Website](https://movix911.vercel.app){:target="_blank"}
+<a href="https://movix911.vercel.app" target="_blank">Visit Movix Website</a>
 
 ## 🚀 Installation
 
