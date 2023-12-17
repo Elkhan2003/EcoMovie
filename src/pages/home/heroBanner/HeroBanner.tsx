@@ -15,14 +15,15 @@ const HeroBanner = () => {
 	const navigate = useNavigate();
 	const { url } = useSelector((state) => state.home);
 	const { data, loading } = useFetch("/movie/upcoming");
+	const backgroundSite = () => {
+		const randomIndex = Math.floor(Math.random() * 20);
+		const bg = url.backdrop + data?.results?.[randomIndex]?.backdrop_path;
+		setBackground(bg);
+	};
 
 	useEffect(() => {
-		const bg =
-			url.backdrop +
-			data?.results?.[Math.floor(Math.random() * 20)]?.backdrop_path;
-		setBackground(bg);
+		backgroundSite();
 	}, [data]);
-
 	const searchQueryHandler = (event) => {
 		if (event.key === "Enter" && query.length > 0) {
 			navigate(`/search/${query}`);
