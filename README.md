@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+# Movix: Ваш персональный кинопутеводитель 🎬✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Добро пожаловать в Movix - уникальный веб-сайт, предоставляющий увлекательную информацию о фильмах и телешоу. Здесь вы сможете отыскать всю необходимую информацию о ваших любимых фильмах, актерах, режиссерах, рейтингах и многом другом. Movix обладает стильным и интуитивно понятным интерфейсом, который сделает ваш поиск кинематографических шедевров максимально удобным и приятным.
+### [Перейти на сайт Movix](https://movix911.vercel.app)
 
-Currently, two official plugins are available:
+## 🚀 Установка
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Склонируйте репозиторий.
+2. Установите зависимости с помощью команды `pnpm i`.
+3. Запустите проект с помощью команды `pnpm dev`.
 
-## Expanding the ESLint configuration
+## 🎥 Использование
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1. Откройте ваш любимый браузер и перейдите на страницу `http://localhost:5173`.
+2. Проведите кинопоиск, выберите фильм, который вызывает интерес.
+3. Нажмите кнопку "Воспроизвести" и погружайтесь в мир киноискусства.
 
-- Configure the top-level `parserOptions` property like this:
+## 👩‍💻 Вклад в проект
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Если у вас есть желание внести свой вклад в проект, следуйте этим простым шагам:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Сделайте форк репозитория.
+2. Создайте новую ветку, вдохновленную вашим воображением.
+3. Внесите изменения в код с любовью к кино.
+4. Создайте запрос на включение изменений (pull request) и поделитесь своим кинематографическим вкладом! 🌟
