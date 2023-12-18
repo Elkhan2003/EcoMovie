@@ -1,8 +1,8 @@
-# Movix: Ваш персональный кинопутеводитель 🎬✨
+# EcoMovie: Ваш персональный кинопутеводитель 🎬✨
 
-Добро пожаловать в Movix - уникальный веб-сайт, предоставляющий увлекательную информацию о фильмах и телешоу. Здесь вы сможете отыскать всю необходимую информацию о ваших любимых фильмах, актерах, режиссерах, рейтингах и многом другом. Movix обладает стильным и интуитивно понятным интерфейсом, который сделает ваш поиск кинематографических шедевров максимально удобным и приятным.
+Добро пожаловать в EcoMovie - уникальный веб-сайт, предоставляющий увлекательную информацию о фильмах и телешоу. Здесь вы сможете отыскать всю необходимую информацию о ваших любимых фильмах, актерах, режиссерах, рейтингах и многом другом. EcoMovie обладает стильным и интуитивно понятным интерфейсом, который сделает ваш поиск кинематографических шедевров максимально удобным и приятным.
 
-<a href="https://movix911.vercel.app" target="_blank">Перейти на сайт Movix</a>
+<a href="https://movix911.vercel.app" target="_blank">Перейти на сайт EcoMovie</a>
 
 ## 🚀 Установка
 
@@ -27,11 +27,11 @@
 
 ---
 
-# Movix: Your Personal Movie Guide 🎬✨
+# EcoMovie: Your Personal Movie Guide 🎬✨
 
-Welcome to Movix - a unique website providing fascinating information about movies and TV shows. Here you can discover all the necessary details about your favorite films, actors, directors, ratings, and much more. Movix boasts a stylish and intuitive interface that makes your search for cinematic masterpieces as convenient and enjoyable as possible.
+Welcome to EcoMovie - a unique website providing fascinating information about movies and TV shows. Here you can discover all the necessary details about your favorite films, actors, directors, ratings, and much more. EcoMovie boasts a stylish and intuitive interface that makes your search for cinematic masterpieces as convenient and enjoyable as possible.
 
-<a href="https://movix911.vercel.app" target="_blank">Visit Movix Website</a>
+<a href="https://movix911.vercel.app" target="_blank">Visit EcoMovie Website</a>
 
 ## 🚀 Installation
 
