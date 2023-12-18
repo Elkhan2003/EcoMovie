@@ -9,6 +9,7 @@ import useFetch from "../../../hooks/useFetch";
 import Img from "../../../components/lazyLoadImage/Img";
 import forceImg from "./../../../assets/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg";
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
+import { TypeWriterWelcome } from "../../typeWriter/TypeWriterWelcome.tsx";
 
 const HeroBanner = () => {
 	const [background, setBackground] = useState("");
@@ -53,7 +54,9 @@ const HeroBanner = () => {
 			<div className="opacity-layer"></div>
 			<ContentWrapper>
 				<div className="heroBannerContent">
-					<span className="title">Welcome.</span>
+					<span className="title">
+						<TypeWriterWelcome />
+					</span>
 					<span className="subTitle">
 						Millions of movies, TV shows and people to discover. Explore now.
 					</span>

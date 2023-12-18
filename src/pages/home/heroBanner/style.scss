@@ -44,12 +44,27 @@
 		color: white;
 		text-align: center;
 		position: relative;
-		max-width: 800px;
+		width: 100%;
+		max-width: 1000px;
 		margin: 0 auto;
 		.title {
+			height: 200px;
 			font-size: 50px;
 			font-weight: 700;
 			margin-bottom: 10px;
+
+			//background: -webkit-linear-gradient(-70deg, #be00c7, #7a06b4);
+			//-webkit-background-clip: text;
+			//background-clip: text;
+			//-webkit-text-fill-color: transparent;
+			//-webkit-box-decoration-break: clone;
+
+			text-shadow: 0px 0px 10px #be00c7;
+
+			@media (max-width: 768px) {
+				height: 80px;
+				font-size: 35px;
+			}
 			@include md {
 				margin-bottom: 0;
 				font-size: 90px;

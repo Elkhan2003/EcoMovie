@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
 @import "../../mixins.scss";
 
 .header {
@@ -28,9 +29,26 @@
 		justify-content: space-between;
 	}
 	.logo {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 9px;
 		cursor: pointer;
 		img {
-			height: 50px;
+			width: 100%;
+			max-width: 40px;
+			height: auto;
+		}
+		span {
+			font-family: "Permanent Marker", cursive;
+			font-size: 26px;
+			font-weight: 900;
+
+			background: -webkit-linear-gradient(-70deg, #b618ba, #d72b6e);
+			-webkit-background-clip: text;
+			background-clip: text;
+			-webkit-text-fill-color: transparent;
+			-webkit-box-decoration-break: clone;
 		}
 	}
 	.menuItems {
