@@ -24,12 +24,12 @@ const Footer = () => {
 					<li className="menuItem">FAQ</li>
 				</ul>
 				<div className="infoText">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur.
+					EcoMovie - a unique website providing fascinating information about
+					movies and TV shows. Here you can discover all the necessary details
+					about your favorite films, actors, directors, ratings, and much more.
+					EcoMovie boasts a stylish and intuitive interface that makes your
+					search for cinematic masterpieces as convenient and enjoyable as
+					possible.
 				</div>
 				<div className="socialIcons">
 					<a href="https://discord.gg/BPzh75gDdS" target="_blank">
