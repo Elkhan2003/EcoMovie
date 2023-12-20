@@ -2,7 +2,7 @@
 
 Добро пожаловать в EcoMovie - уникальный веб-сайт, предоставляющий увлекательную информацию о фильмах и телешоу. Здесь вы сможете отыскать всю необходимую информацию о ваших любимых фильмах, актерах, режиссерах, рейтингах и многом другом. EcoMovie обладает стильным и интуитивно понятным интерфейсом, который сделает ваш поиск кинематографических шедевров максимально удобным и приятным.
 
-<a href="https://eco-movie.vercel.app" target="_blank">Перейти на сайт EcoMovie</a>
+<a href="https://ecomovie.life" target="_blank">Перейти на сайт EcoMovie</a>
 
 ## 🚀 Установка
 
@@ -31,7 +31,7 @@
 
 Welcome to EcoMovie - a unique website providing fascinating information about movies and TV shows. Here you can discover all the necessary details about your favorite films, actors, directors, ratings, and much more. EcoMovie boasts a stylish and intuitive interface that makes your search for cinematic masterpieces as convenient and enjoyable as possible.
 
-<a href="https://eco-movie.vercel.app" target="_blank">Visit EcoMovie Website</a>
+<a href="https://ecomovie.life" target="_blank">Visit EcoMovie Website</a>
 
 ## 🚀 Installation
 
